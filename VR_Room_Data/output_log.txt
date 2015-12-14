@@ -1,0 +1,144 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST (ID=0x11c2)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Room\VR_Room_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Room\VR_Room_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Room\VR_Room_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Room\VR_Room_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.033 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\OculusProjects\VR_Room\VR_Room_Data\Managed\System.dll (this message is harmless)
+[CAPI] LibOVR module is located at C:\Windows\system32\LibOVRRT32_0_6.dll
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetInitialState : x1: C2S=35.986, S2C=4.09596, Runtime=47.3962 (microseconds) C2Ssize=80, S2Csize=81 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for IsLatencyTesterAvailable : x1: C2S=33.938, S2C=2.92569, Runtime=0.877707 (microseconds) C2Ssize=33, S2Csize=18 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_Create : x1: C2S=55.003, S2C=13.1656, Runtime=7.31422 (microseconds) C2Ssize=19, S2Csize=171 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_GetHmdInfo : x1: C2S=31.89, S2C=14.921, Runtime=4.09596 (microseconds) C2Ssize=23, S2Csize=803 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetNumberValue : x1: C2S=34.5231, S2C=2.63312, Runtime=2.92569 (microseconds) C2Ssize=55, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetNumberValues : x1: C2S=32.7677, S2C=13.1656, Runtime=3.8034 (microseconds) C2Ssize=81, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_SetEnabledCaps : x1: C2S=46.5185, S2C=23.4055, Runtime=156.817 (microseconds) C2Ssize=35, S2Csize=33 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_ConfigureTracking : x1: C2S=47.3962, S2C=23.1129, Runtime=136.63 (microseconds) C2Ssize=46, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetIntValue : x1: C2S=37.1563, S2C=11.1176, Runtime=11.9953 (microseconds) C2Ssize=47, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Compositor_Create : x1: C2S=56.1732, S2C=20.7724, Runtime=61500.3 (microseconds) C2Ssize=100, S2Csize=52 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Compositor_TextureSet_Create : x1: C2S=55.8807, S2C=40.9596, Runtime=565.828 (microseconds) C2Ssize=69, S2Csize=33 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+Unity v5.1.3f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[IPC] Call Stats for GetNumberValues : x1: C2S=12.2879, S2C=23.1129, Runtime=15.2136 (microseconds) C2Ssize=49, S2Csize=57 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BeginTest.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Looking for file
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Found File
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[IPC] Call Stats for Compositor_EndFrame : x1: C2S=22.8204, S2C=8.4845, Runtime=37235.5 (microseconds) C2Ssize=995, S2Csize=89 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[IPC] Call Stats for Compositor_DestroyMirror : x1: C2S=60.8543, S2C=11.1176, Runtime=3.8034 (microseconds) C2Ssize=33, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Compositor_Destroy : x1: C2S=58.5138, S2C=35.986, Runtime=6684.61 (microseconds) C2Ssize=27, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_Release : x1: C2S=48.5664, S2C=4.97367, Runtime=117042 (microseconds) C2Ssize=20, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
